@@ -45,7 +45,7 @@ const INFO = {
 				"Designed and developed a user-friendly Mobile app, enabling users to book the movie tickets and effortlessly discover the latest movie releases, upcoming blockbusters, and popular films. Maintained a well-structured project folder architecture, meticulously organized components and screens, streamlining navigation and reducing development time by 15% faster feature implementation. Utilized React Native, TypeScript, and JavaScript to expedite cross-platform development, resulting in a remarkable 40% reduction in development time and costs. Successfully integrated data from the themoviedb API, providing users with up to date movie information, resulting in a 50% increase in user satisfaction and engagement. TechStack: React Native, TypeScript, JavaScript, JSX",
 			logo: "https://static-00.iconduck.com/assets.00/sdk-react-native-icon-1024x980-7ch6m2rf.png",
 			linkText: "View Project",
-			link: "https://github.com/kishorekumar0808/NxtWatch",
+			link: "https://github.com/kishorekumar0808/NextShow/tree/main/Movie_App",
 		},
 
 		{
