@@ -1,13 +1,12 @@
 # Reactfolio V1.2 👩🏽‍🚀
 
-Reactfolio is a modern and customizable personal portfolio web template built using the popular React library. It provides an easy way for developers, designers, and creatives to showcase their work, skills, and achievements in a professiona and visually appealing way. With its responsive design and clean code, Reactfolio can be easily tailored to suit individual needs and preferences, making it an ideal choice for anyone looking to create a stunning online portfolio.
+React portfolio is a modern and customizable personal portfolio web template built using the popular React library. It provides an easy way for developers, designers, and creatives to showcase their work, skills, and achievements in a profession and visually appealing way. With its responsive design and clean code, React portfolio can be easily tailored to suit individual needs and preferences, making it an ideal choice for anyone looking to create a stunning online portfolio.
 
 <center>
-<img src="https://cdn.tharindu.dev/reactfolio.jpg" alt="Reactfolio" />
+<img src="https://cdn.tharindu.dev/reactfolio.jpg" alt="ReactPortfolio" />
 </center>
 
-Live demo here: <a href="https://reactfolio.tharindu.dev/" target="_blank">reactfolio.tharindu.dev</a>
-
+## 📄 Overview
 -   [Features](#-features)
 -   [Getting started](#-getting-started)
 -   [Installation and Setup Instructions](#-installation-and-setup-instructions)
