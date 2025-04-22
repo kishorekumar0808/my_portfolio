@@ -18,9 +18,9 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Kishore Kumar. I live in Andhra Pradesh, where I design the future.",
+		title: "I’m Kishore Kumar, a developer from Andhra Pradesh who enjoys turning ideas into seamless digital experiences.",
 		description:
-			"I'm a passionate developer with a strong foundation in React and React Native. I thrive on challenges and enjoy creating innovative solutions that make a difference. My goal is to leverage technology to improve lives and drive positive change in the world.",
+		"I'm a passionate and results-driven developer with a solid foundation in React and React Native, committed to building high-performance web and mobile applications. I thrive on solving complex challenges and take pride in creating clean, scalable, and user-friendly solutions that truly make a difference. With hands-on experience across diverse domains like healthcare, e-commerce, and research, I understand the importance of aligning technology with real-world needs. I'm constantly exploring new tools, best practices, and modern design principles to stay ahead and deliver impactful products. My goal is to leverage technology not just to build functional apps, but to enhance user experiences, streamline workflows, and drive meaningful change. I believe in continuous learning, collaboration, and pushing boundaries to develop solutions that improve lives and bring lasting value."
 	},
 
 	articles: {
